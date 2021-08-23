@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MainActivity/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26979166666666665" />
+        <entry key="..\:/MainActivity/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26979166666666665" />
+        <entry key="..\:/MainActivity/app/src/main/res/drawable/menu_selector_color.xml" value="0.38229166666666664" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/fragment_community.xml" value="0.33" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/fragment_matching.xml" value="0.2046875" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/fragment_myinfo.xml" value="0.1296875" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/fragment_option.xml" value="0.2046875" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/fragment_sexblank.xml" value="0.36614583333333334" />
+        <entry key="..\:/MainActivity/app/src/main/res/layout/menu.xml" value="0.3515625" />
+        <entry key="..\:/MainActivity/app/src/main/res/xml/menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
